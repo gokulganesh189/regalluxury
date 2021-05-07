@@ -226,7 +226,7 @@ transform: translateX(50%);
 .index-footer{
     margin-top:-150px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:700px){
     video{
         margin-top: 0;
     }
@@ -383,7 +383,7 @@ text-decoration: none;
     text-transform: uppercase;
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:700px){
     .trending-text{
         margin-bottom: -40px;
         text-shadow: 2px 2px 5px #191a10;
